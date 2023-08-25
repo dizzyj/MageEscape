@@ -1,6 +1,7 @@
 # MageEscape
 3rd person Zelda-like dungeon crawler
 This is the original design document written for the class project.
+
 [CSCI 321 - Game Design Document - Final Milestone - Group 4.pdf](https://github.com/dizzyj/MageEscape/files/12443727/CSCI.321.-.Game.Design.Document.-.Final.Milestone.-.Group.4.pdf)
 
 
